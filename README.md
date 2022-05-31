@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vladimir</a> 
+<h1 align="center">Hi there, I'm Vladimir</h3> 
 
 I'm QA automation studen in QA.GURU shcool
 Also i'm intrested in data analysis and matematical modeling
